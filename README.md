@@ -1,1 +1,1 @@
-Simulação de acesso do usuário a uma conta bancária com opções de saque, depósito e verificar dados da conta
+Exercício feito em aula acompanhado de melhorias e/ou modificações feitas por mim para testar meu aprendizado
