@@ -48,13 +48,10 @@ public class Data {
 		balance += amount;
 	}
 	
-//	public void withdraw(double amount) {
-//		balance -= amount + 5.0;
-//	}
-
 	public String toString() {
 		return "Nome do correntista: " + name
 	         + "\nNumero da conta: " + number
 			 + "\nSaldo: R$" + String.format("%.2f",balance);
 	}
 }
+
