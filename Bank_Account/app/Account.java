@@ -56,7 +56,6 @@ public class Account {
                     double Withdraw_value = sc.nextDouble();
                     if (account.withdraw(Withdraw_value)) {
                         System.out.println("Saque realizado com sucesso!");
-                        System.out.println("Saque realizado com sucesso!");
                     }
                     else {
                         System.out.println("Saldo insuficiente! Operação cancelada.");
@@ -83,4 +82,5 @@ public class Account {
         
         sc.close();
     }
+
 }
